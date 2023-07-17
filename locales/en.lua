@@ -317,9 +317,9 @@ Locales["en"] = {
         }
     },
     textUI = {
-        clothing = "Clothing Store - Price: $%d",
-        barber = "Barber - Price: $%d",
-        tattoo = "Tattoo Shop - Price: $%d",
+        clothing = "Clothing Store",
+        barber = "Barber",
+        tattoo = "Tattoo Shop",
         surgeon = "Plastic Surgeon - Price: $%d",
         clothingRoom = "Clothing Room",
         playerOutfitRoom = "Outfits"
